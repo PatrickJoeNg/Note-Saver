@@ -21,5 +21,10 @@ namespace NoteSaver
         {
 
         }
+
+        private void messageLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
